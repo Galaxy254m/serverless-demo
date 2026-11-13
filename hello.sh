@@ -3,3 +3,4 @@ echo "Function executed at $(date)"
 echo "Triggered by: git push"
 echo "Running on host: $(hostname)"
 uname -a
+echo "Version2 of the function" 
